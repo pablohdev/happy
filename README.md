@@ -5,9 +5,18 @@
 <p align="center">
   <a href="https://rocketseat.com.br">
     <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-7519C1">
-  </a>[![YARN](https://img.shields.io/badge/yarn-1.19.0-blue.svg)](https://yarnpkg.com/) [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
+  </a>
+  
+  <a href="https://yarnpkg.com/">
+    <img alt="Yarn" src="https://img.shields.io/badge/yarn-1.19.0-blue.svg">
+  </a>
+  
+  
+  <a href="https://github.com/Naereen/StrapDown.js/blob/master/LICENSE">
+    <img alt="Licence" src="https://img.shields.io/github/license/Naereen/StrapDown.js.svg">
+  </a>
+  
 </p>
-
 
 ## :pushpin: Índice
 
