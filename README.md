@@ -58,15 +58,15 @@ Essas são as tecnologias que foram utilizadas.
   - [KnexJS](http://knexjs.org/)
   - [SQLite](https://www.sqlite.org/index.html)
 
-<!--
+
 ## :computer: Web Screenshots
 
 <div width="" style="display: flex; align-items: 'center'; justify-content: space-evenly">
-  <img src="https://github.com/gustavohrgomes/Happy/blob/main/.github/images/landing.png" width="400px">
-  <img src="https://github.com/gustavohrgomes/Happy/blob/main/.github/images/map.png"  width="400px">
+  <img src="https://github.com/pablohdev/happy/blob/main/.github/images/landing.jpg" width="400px">
+  <img src="https://github.com/pablohdev/happy/blob/main/.github/images/map.jpg"  width="400px">
 </div>
 
--->
+
 ## :construction_worker: Como rodar o projeto
 
 ```bash
